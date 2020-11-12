@@ -8,3 +8,7 @@
   - linkedin: [here](https://www.linkedin.com/in/alexander-bailey-0100201b1/)
   - web: [alexkbailey.com](http://www.alexkbailey.com)
   - email: [alexkingstonbailey@gmail.com](sendto:alexkingstonbailey@gmail.com)
+
+[![Kingston802's github stats](https://github-readme-stats.vercel.app/api?username=Kingston802&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:activity-->
