@@ -1,7 +1,7 @@
 ### Hello, World 👋
 
 - 📚 I study Engineering at the University of Auckland 
-- 🌱 I’m currently learning ReactJS and Java (for class)
+- 🌱 I’m currently learning GraphQL and Apollo
 - 💬 Ask me about Vim, Living with Linux or Python
 - 📫 Contact 
   - linkedin: [here](https://www.linkedin.com/in/alexanderkingstonbailey/)
