@@ -1,8 +1,8 @@
 ### Hello, World 👋
 
-- 📚 I study Engineering at the University of Auckland 
-- 🌱 I’m currently learning GraphQL and Apollo
-- 💬 Ask me about Vim, Living with Linux or Python
+- 📚 I study Electrical and Electronics Engineering at the University of Auckland 
+- 🌱 I’m currently studying Power Electronics and Radio
+- 💬 Ask me about Vim, Cubesats or Inductive Power Transfer
 - 📫 Contact 
   - linkedin: [here](https://www.linkedin.com/in/alexanderkingstonbailey/)
   - portfolio site: [alexkbailey.com](http://www.alexkbailey.com)
